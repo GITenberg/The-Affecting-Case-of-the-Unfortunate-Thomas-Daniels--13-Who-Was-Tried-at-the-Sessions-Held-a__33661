@@ -1,0 +1,30 @@
+_repo: The-Affecting-Case-of-the-Unfortunate-Thomas-Daniels--13-Who-Was-Tried-at-the-Sessions-Held-a__33661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daniels, Thomas
+    gutenberg_agent_id: '36525'
+    url: http://www.gutenberg.org/2009/agents/36525
+description: ''
+gutenberg_issued: '2010-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KD'
+- !lcsh 'Daniels, Thomas -- Trials, litigation, etc.'
+- !lcsh 'Murder -- England -- Early works to 1800'
+- !lcsh 'Daniels, Sarah -- Trials, litigation, etc.'
+- !lcsh 'Trials (Murder) -- England -- London'
+title: "The Affecting Case of the Unfortunate Thomas Daniels\r\nWho Was Tried at the\
+  \ Sessions Held at the Old Bailey, September, 1761, for the Supposed Murder of His\
+  \ Wife; by Casting Her out of a Chamber Window: and for Which He Was Sentenced to\
+  \ Die, but Received His Majesty's Most Gracious and Free Pardon."
+url: http://www.gutenberg.org/ebooks/33661
